@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Pint",
+    "price": 4.99,
+    "imgUrl": "/imgs/beerpint.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Six Pack",
+    "price": 11.99,
+    "imgUrl": "/imgs/beersixpack.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "T-Shirt",
+    "price": 20,
+    "imgUrl": "/imgs/beershirt.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Growler",
+    "price": 20.00,
+    "imgUrl": "/imgs/growler.jpeg"
+  }
+]
